@@ -1,0 +1,13 @@
+Data preprocessing and Data cleaning in Titanic Dataset
+
+steps
+
+1. open the file in google colab notebook or jupyter notebook
+2. upload the given file in the notebook File:test.csv & train.csv
+   both are CSV file 
+3. use python language to train the model
+4. main.py is the code file of the program 
+********thank you*************
+
+
+by:- Ritanshu mankar
